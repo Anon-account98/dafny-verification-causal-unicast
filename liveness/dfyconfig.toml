@@ -1,0 +1,3 @@
+[options]
+verification-time-limit = 30
+warn-contradictory-assumptions = true
